@@ -1,0 +1,325 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,55.5,&H00FFFFFF,&H000000FF,&H00282828,&H00000000,-1,0,0,0,100.2,100,0,0,1,3.75,0,2,0,0,79,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:46.75,0:01:48.00,Default,,0,0,0,,Un problème, ma chère?
+Dialogue: 0,0:01:50.04,0:01:51.75,Default,,0,0,0,,Non, ce n'ai rien.
+Dialogue: 0,0:01:52.10,0:01:53.25,Default,,0,0,0,,Éhhéééé.
+Dialogue: 0,0:01:57.34,0:01:59.42,Default,,0,0,0,,Contente que tu manges à nouveau le matin.
+Dialogue: 0,0:01:59.43,0:02:02.97,Default,,0,0,0,,Depuis que nous habitons ici, tu es devenu un vrai lève-tôt. \NJe suis fière de toi.
+Dialogue: 0,0:02:06.18,0:02:09.60,Default,,0,0,0,,Dis, ça va être l'heure de ton rendez-vous avec Rena, non?
+Dialogue: 0,0:02:14.66,0:02:16.03,Default,,0,0,0,,C'était un régal!
+Dialogue: 0,0:02:16.40,0:02:17.53,Default,,0,0,0,,À ce soir.
+Dialogue: 0,0:02:21.91,0:02:24.92,Default,,0,0,0,,Salut, Keiichi!
+Dialogue: 0,0:02:25.37,0:02:27.33,Default,,0,0,0,,Toujours en avance, comme d'habitude…
+Dialogue: 0,0:02:27.54,0:02:29.87,Default,,0,0,0,,Tu as le droit d'avoir une panne de réveil de temps en temps, tu sais.
+Dialogue: 0,0:02:31.54,0:02:33.59,Default,,0,0,0,,Oui, mais je ne voudrais pas te faire attendre...
+Dialogue: 0,0:02:33.67,0:02:34.96,Default,,0,0,0,,Qui a dit que je t'attendrais?
+Dialogue: 0,0:02:35.63,0:02:38.05,Default,,0,0,0,,C'est pas gentil ça. \NMoi je t'attends tous les matins!
+Dialogue: 0,0:02:38.17,0:02:40.76,Default,,0,0,0,,Même pas une minute. \NMême pas une seconde!
+Dialogue: 0,0:02:41.01,0:02:43.93,Default,,0,0,0,,Pourquoi t'es méchant comme ça...!
+Dialogue: 0,0:02:44.97,0:02:47.14,Default,,0,0,0,,Mais nan, je rigole. Bien sûr que je t'attendrai.
+Dialogue: 0,0:02:48.43,0:02:49.56,Default,,0,0,0,,Je... merci...
+Dialogue: 0,0:02:49.94,0:02:53.87,Default,,0,0,0,,Je t'attendrai, envers et contre tout. Toute ma vie s'il le faut.
+Dialogue: 0,0:02:55.81,0:02:57.56,Default,,0,0,0,,Toute la vie.
+Dialogue: 0,0:03:04.57,0:03:06.17,Default,,0,0,0,,Ah, vous voilà vous deux.
+Dialogue: 0,0:03:06.30,0:03:07.82,Default,,0,0,0,,Vous êtes en retard!
+Dialogue: 0,0:03:08.16,0:03:10.83,Default,,0,0,0,,Pour une fois que t'arrives à l'heure, commence pas!
+Dialogue: 0,0:03:11.00,0:03:12.98,Default,,0,0,0,,Bonjour, Mii!
+Dialogue: 0,0:03:13.16,0:03:14.50,Default,,0,0,0,,Salut, Rena.
+Dialogue: 0,0:03:14.63,0:03:18.17,Default,,0,0,0,,Et toi mon p'tit Kei, ça fait un bail qu'on s'est pas vus!
+Dialogue: 0,0:03:18.26,0:03:20.38,Default,,0,0,0,,Je suis parti que deux jours!
+Dialogue: 0,0:03:21.63,0:03:25.26,Default,,0,0,0,, Et alors? Comment c'était, la ville? Raconte!
+Dialogue: 0,0:03:25.35,0:03:29.14,Default,,0,0,0,,Ben, je suis juste allé à la crémation, quoi. \NTout le monde était un peu nerveux.
+Dialogue: 0,0:03:29.23,0:03:31.85,Default,,0,0,0,,Au fait! Tu as cherché? Tu sais, le truc que je t'ai demandé.
+Dialogue: 0,0:03:31.89,0:03:33.77,Default,,0,0,0,,Le catalogue de jeux de plateaux...
+Dialogue: 0,0:03:33.98,0:03:36.11,Default,,0,0,0,,Dis, tu écoutes quand les gens te parlent?
+Dialogue: 0,0:03:36.23,0:03:38.03,Default,,0,0,0,,J'ai pas eu le temps ni l'occasion de faire le tour des magasins.
+Dialogue: 0,0:03:38.15,0:03:39.19,Default,,0,0,0,,Sérieux?
+Dialogue: 0,0:03:46.24,0:03:47.33,Default,,0,0,0,,Eh bah...
+Dialogue: 0,0:03:51.62,0:03:53.83,Default,,0,0,0,,Tu veux voir comment je me débrouille aujourd'hui?
+Dialogue: 0,0:03:54.17,0:03:56.04,Default,,0,0,0,,Eh ben alors, vous deux? Qu'est-ce qui se passe?
+Dialogue: 0,0:03:56.21,0:03:58.30,Default,,0,0,0,,Reste derrière, Rena. C'est dangereux...
+Dialogue: 0,0:03:58.42,0:04:00.13,Default,,0,0,0,,Hein? Tu veux dire...
+Dialogue: 0,0:04:00.17,0:04:01.13,Default,,0,0,0,,Regardez!
+Dialogue: 0,0:04:01.17,0:04:04.28,Default,,0,0,0,,Bien vu, Satoko! Mais tu es encore jeune,\N et tes pièges s'en ressentent.
+Dialogue: 0,0:04:04.34,0:04:06.76,Default,,0,0,0,,Tu vas peut-être enfin l'emporter.
+Dialogue: 0,0:04:07.01,0:04:10.31,Default,,0,0,0,,Penses-tu... Tu connais Satoko.
+Dialogue: 0,0:04:10.43,0:04:11.93,Default,,0,0,0,,Il y a sûrement d'autres pièges.
+Dialogue: 0,0:04:12.23,0:04:14.94,Default,,0,0,0,,À première vue,\Nla brosse m'a l'air normale.
+Dialogue: 0,0:04:15.31,0:04:17.36,Default,,0,0,0,,Elle ne l'a pas lesté.
+Dialogue: 0,0:04:17.48,0:04:20.19,Default,,0,0,0,,Celle que tu t'es prise le premier jour
+Dialogue: 0,0:04:20.23,0:04:22.15,Default,,0,0,0,,t'a laissé une sacrée bosse.
+Dialogue: 0,0:04:22.24,0:04:26.32,Default,,0,0,0,,Il suffit d'ouvrir la porte\N L'effaceur tombe et on n'en parle plus?
+Dialogue: 0,0:04:26.41,0:04:29.04,Default,,0,0,0,,C'est ce qu'elle veut me pousser à faire!
+Dialogue: 0,0:04:29.41,0:04:30.95,Default,,0,0,0,,La brosse est un leurre.
+Dialogue: 0,0:04:31.66,0:04:32.46,Default,,0,0,0,,Du coup...
+Dialogue: 0,0:04:39.59,0:04:41.92,Default,,0,0,0,,C'était une combinaison bien pensée.
+Dialogue: 0,0:04:55.60,0:04:57.65,Default,,0,0,0,,Aïe, aïe, aïe...
+Dialogue: 0,0:04:57.81,0:04:59.61,Default,,0,0,0,,Eh bien, qu'avons-nous là?
+Dialogue: 0,0:05:00.32,0:05:02.94,Default,,0,0,0,,Salutation, cher Keiichi.
+Dialogue: 0,0:05:03.03,0:05:0.23,Default,,0,0,0,,Quelle vitalité, quelle agitation de si bon matin!
+Dialogue: 0,0:05:05.24,0:05:09.45,Default,,0,0,0,,Eh ben alors Satoko, \Ntu m'as sorti le grand jeu cette fois!
+Dialogue: 0,0:05:09.62,0:05:12.50,Default,,0,0,0,,Excusez-moi mon cher, mais je ne vois pas du tout de quoi vous voulez parler. 
+Dialogue: 0,0:05:12.62,0:05:14.21,Default,,0,0,0,,Attends un peu, toi!
+Dialogue: 0,0:05:15.41,0:05:16.87,Default,,0,0,0,,Ouille...
+Dialogue: 0,0:05:20.25,0:05:22.88,Default,,0,0,0,,C'est rien, c'est rien, ça fait plus mal.
+Dialogue: 0,0:05:24.42,0:05:26.13,Default,,0,0,0,,Salut, Rika.
+Dialogue: 0,0:05:26.59,0:05:28.55,Default,,0,0,0,,Bonjour, Rena.
+Dialogue: 0,0:05:28.68,0:05:31.10,Default,,0,0,0,,Bonjour vous autres.
+Dialogue: 0,0:05:31.22,0:05:33.72,Default,,0,0,0,,Rika, tu es une gentille petite fille... 
+Dialogue: 0,0:05:34.10,0:05:35.60,Default,,0,0,0,,Par contre, Satoko, alors toi!
+Dialogue: 0,0:05:35.64,0:05:39.02,Default,,0,0,0,,Je ne vous permets pas! Vous n'avez aucune preuve!
+Dialogue: 0,0:05:40.82,0:05:44.44,Default,,0,0,0,,Je te préviens Satoko, si je te mets une chouquette, \Ntu vas avoir très mal!
+Dialogue: 0,0:05:45.44,0:05:47.86,Default,,0,0,0,,Nooon!!! Ne m'approchez pas, espèce d'animal!
+Dialogue: 0,0:05:47.91,0:05:51.00,Default,,0,0,0,,Hé mais t'es pas bien? Les gens vont s'imaginer autre chose!
+Dialogue: 0,0:05:56.96,0:06:01.11,Default,,0,0,0,,Allons, Satoko, ne pleure plus. \NCourage! Te laisse pas abattre.
+Dialogue: 0,0:06:01.21,0:06:03.67,Default,,0,0,0,,La prochaine fois,
+Dialogue: 0,0:06:03.71,0:06:06.17,Default,,0,0,0,, pose des pièges beaucoup plus vicieux.
+Dialogue: 0,0:06:06.34,0:06:07.59,Default,,0,0,0,,Éhhéééé
+Dialogue: 0,0:06:07.63,0:06:08.93,Default,,0,0,0,,QUOI???
+Dialogue: 0,0:06:10.30,0:06:13.60,Default,,0,0,0,,Ooh... Regarde Satoko, elle pleure...\N Elle est trop mimiiii...
+Dialogue: 0,0:06:13.72,0:06:15.89,Default,,0,0,0,,Je la ramène à la maison!
+Dialogue: 0,0:06:15.98,0:06:17.44,Default,,0,0,0,,J'veux pas l'savoir.
+Dialogue: 0,0:06:20.56,0:06:23.73,Default,,0,0,0,,Désolée de te faire venir un dimanche, Kei.
+Dialogue: 0,0:06:23.90,0:06:26.90,Default,,0,0,0,,Tu vas me faire visiter Hinamizawa, non?
+Dialogue: 0,0:06:27.03,0:06:29.03,Default,,0,0,0,,Je devrais plutôt te remercier.
+Dialogue: 0,0:06:29.11,0:06:31.24,Default,,0,0,0,,Au fait, où est Rena?
+Dialogue: 0,0:06:31.87,0:06:33.74,Default,,0,0,0,,Elle est rarement en retard.
+Dialogue: 0,0:06:33.95,0:06:38.21,Default,,0,0,0,,Elle s'est enflammée à l'idée\Nde te préparer à manger, p'tit gars.
+Dialogue: 0,0:06:38.33,0:06:40.75,Default,,0,0,0,,J'espère qu'elle en a pas trop fait...
+Dialogue: 0,0:06:41.54,0:06:43.25,Default,,0,0,0,,Pardon pour l'attente!
+Dialogue: 0,0:06:43.34,0:06:44.75,Default,,0,0,0,,Hop là.
+Dialogue: 0,0:06:44.80,0:06:47.47,Default,,0,0,0,,T'as intérêt à assurer, mon garçon!
+Dialogue: 0,0:06:47.63,0:06:52.26,Default,,0,0,0,,Ouais, ça va, c'est bon... \NJe prendrai mes responsabilités.
+Dialogue: 0,0:06:53.60,0:06:56.64,Default,,0,0,0,,Mais de quoi vous parlez, tous les deux?
+Dialogue: 0,0:07:26.25,0:07:29.17,Default,,0,0,0,,Ici, c'est le temple Furude.
+Dialogue: 0,0:07:29.26,0:07:32.98,Default,,0,0,0,,C'est ici qu'aura lieu la fête du village dans pas longtemps.
+Dialogue: 0,0:07:33.51,0:07:37.64,Default,,0,0,0,,Ah bon? C'est pas un peu tôt pour la saison?
+Dialogue: 0,0:07:38.22,0:07:42.58,Default,,0,0,0,,Ben justement, autrefois, la purification du coton célébrait la fin de l'hiver.
+Dialogue: 0,0:07:57.24,0:07:58.74,Default,,0,0,0,,Mangez autant que vous voulez.
+Dialogue: 0,0:07:59.54,0:08:03.42,Default,,0,0,0,,Avale tout, OK?\NSi tu la rends triste, tu me le paieras.
+Dialogue: 0,0:08:04.42,0:08:06.88,Default,,0,0,0,,Je suis un homme, j'irai jusqu'au bout.
+Dialogue: 0,0:08:07.13,0:08:08.67,Default,,0,0,0,,Mais j'arriverai jamais à tout finir.
+Dialogue: 0,0:08:08.71,0:08:11.17,Default,,0,0,0,,Eh bien, voyez-vous cela...
+Dialogue: 0,0:08:14.55,0:08:16.05,Default,,0,0,0,,Bonjour à tous.
+Dialogue: 0,0:08:18.18,0:08:21.51,Default,,0,0,0,,Il est l'heure de manger, non? \NAujourd'hui, Rena régale.
+Dialogue: 0,0:08:21.52,0:08:24.27,Default,,0,0,0,,J'avais compris au premier regard, rustre!
+Dialogue: 0,0:08:24.35,0:08:27.77,Default,,0,0,0,,Mais je veux savoir de quel droit vous installez \Nvotre nappe dans notre jardin!
+Dialogue: 0,0:08:27.82,0:08:31.28,Default,,0,0,0,,Jusqu'à preuve du contraire, \Nles temples sont des bâtiments publics, je te signale.
+Dialogue: 0,0:08:31.53,0:08:35.57,Default,,0,0,0,,Keiichi a raison en effet.\N J'ai déclaré ce jardin d'utilité publique.
+Dialogue: 0,0:08:36.74,0:08:39.16,Default,,0,0,0,,Rika, tu es vraiment quelqu'un de bien, toi, au moins!
+Dialogue: 0,0:08:39.24,0:08:41.29,Default,,0,0,0,,Assieds-toi donc et reste manger avec nous.
+Dialogue: 0,0:08:41.62,0:08:43.87,Default,,0,0,0,,– Merci!\N– Attendez une minute!
+Dialogue: 0,0:08:44.04,0:08:46.42,Default,,0,0,0,,Et moi, où suis-je donc censée m'asseoir
+Dialogue: 0,0:08:46.54,0:08:49.45,Default,,0,0,0,,Mais tout simplement nulle part.\N Il n'y a rien à manger pour toi ici, de toutes manières.
+Dialogue: 0,0:08:49.84,0:08:52.84,Default,,0,0,0,, Mais non, voyons, reste, Satoko...\N Il y en aura bien assez pour toi aussi...
+Dialogue: 0,0:08:52.92,0:08:54.93,Default,,0,0,0,,Que dalle! Je mangerai sa part s'il le faut!
+Dialogue: 0,0:08:59.01,0:09:00.06,Default,,0,0,0,,Rika...
+Dialogue: 0,0:09:00.26,0:09:01.97,Default,,0,0,0,,Tiens, voilà des baguettes.
+Dialogue: 0,0:09:07.31,0:09:10.71,Default,,0,0,0,,Eh ben...\NTu es doué pour embobiner les gens, dis-donc.
+Dialogue: 0,0:09:10.90,0:09:15.15,Default,,0,0,0,,Nous devrions commencer aussi\N si nous voulons en avoir un peu.
+Dialogue: 0,0:09:15.20,0:09:19.37,Default,,0,0,0,,Tu as raison.\N Prêt pour la bagarre?
+Dialogue: 0,0:09:20.74,0:09:22.04,Default,,0,0,0,,Vous n'aurez pas ce morceau!
+Dialogue: 0,0:09:24.71,0:09:26.87,Default,,0,0,0,,Eh, Satoko, pas de coup de coude, on a dit!
+Dialogue: 0,0:09:30.38,0:09:32.88,Default,,0,0,0,,Votre steak est à moi!
+Dialogue: 0,0:09:34.13,0:09:36.05,Default,,0,0,0,,Satoko Hôjô, vous avez PERDU!
+Dialogue: 0,0:09:37.55,0:09:39.39,Default,,0,0,0,,Nooon! Pas la dernière boulette de viande!
+Dialogue: 0,0:09:39.80,0:09:42.72,Default,,0,0,0,,Elles sont juteuses, c'est trop bon!
+Dialogue: 0,0:09:42.89,0:09:46.31,Default,,0,0,0,,En ce cas,\Nje prends votre morceau d'omelette!
+Dialogue: 0,0:09:48.69,0:09:50.65,Default,,0,0,0,,Ça fond dans la bouche.
+Dialogue: 0,0:09:52.53,0:09:55.03,Default,,0,0,0,,Tous ces petits plats sont à tomber.
+Dialogue: 0,0:09:55.19,0:09:56.40,Default,,0,0,0,,C'est délicieux.
+Dialogue: 0,0:09:56.90,0:09:57.95,Default,,0,0,0,,Je me régale.
+Dialogue: 0,0:10:05.37,0:10:06.87,Default,,0,0,0,,Bon, à demain.
+Dialogue: 0,0:10:06.96,0:10:08.71,Default,,0,0,0,,Merci pour aujourd'hui, Mion.
+Dialogue: 0,0:10:08.83,0:10:10.13,Default,,0,0,0,,À demain!
+Dialogue: 0,0:10:10.67,0:10:14.26,Default,,0,0,0,,Merci d'être venu, Keiichi. Ça t'a plu?
+Dialogue: 0,0:10:14.38,0:10:15.88,Default,,0,0,0,,Oui, c'était super.
+Dialogue: 0,0:10:16.01,0:10:18.30,Default,,0,0,0,,À vrai dire, j'ai même pas envie de rentrer à la maison!
+Dialogue: 0,0:10:18.43,0:10:22.68,Default,,0,0,0,,Ah oui? Dans ce cas, qu'est ce que tu dirais d'un petit détour?\N Ça te tente?
+Dialogue: 0,0:10:23.31,0:10:24.68,Default,,0,0,0,,Un détour?
+Dialogue: 0,0:10:34.94,0:10:37.70,Default,,0,0,0,,{\an8\i1}DÉFENSE D'ENTRER{\i0\an}
+Dialogue: 0,0:10:42.95,0:10:46.45,Default,,0,0,0,,Ça fait un bail que je suis pas venue, je me demande ce que je vais trouver...
+Dialogue: 0,0:10:49.92,0:10:52.63,Default,,0,0,0,,Tu es venue pour... fouiller dans les poubelles?
+Dialogue: 0,0:10:53.04,0:10:56.26,Default,,0,0,0,,Ce ne sont pas des ordures!\N Pour moi, c'est une montagne de trésors, ce coin.
+Dialogue: 0,0:10:57.42,0:11:01.14,Default,,0,0,0,,Il y a peut-être des trucs mimi.\NJe suis tout excitée!
+Dialogue: 0,0:11:01.34,0:11:03.14,Default,,0,0,0,,Hé, attends-moi!
+Dialogue: 0,0:11:05.10,0:11:08.35,Default,,0,0,0,,Mais t'en fais pas, Keiichi,reste là! \NJe reviens tout de suite!
+Dialogue: 0,0:11:08.43,0:11:09.89,Default,,0,0,0,,Je te jure...
+Dialogue: 0,0:11:27.45,0:11:29.41,Default,,0,0,0,,Wooh! Tu m'as fais peur, dis-donc!
+Dialogue: 0,0:11:29.46,0:11:31.37,Default,,0,0,0,,Et vous donc... j'ai eu une de ces frousses!
+Dialogue: 0,0:11:31.54,0:11:34.29,Default,,0,0,0,,Ah, désolé. C'était pas le but recherché.
+Dialogue: 0,0:11:34.38,0:11:36.55,Default,,0,0,0,,Tu es du village?
+Dialogue: 0,0:11:38.63,0:11:41.80,Default,,0,0,0,,Moi, c'est Tomitake.\N Je suis photographe indépendant.
+Dialogue: 0,0:11:41.88,0:11:44.35,Default,,0,0,0,,Je viens à Hinamizawa de temps en temps.
+Dialogue: 0,0:11:44.55,0:11:47.01,Default,,0,0,0,,Le village regorge de beaux paysages.
+Dialogue: 0,0:11:48.47,0:11:51.06,Default,,0,0,0,,J'ai croyais qu'on demandait la permission\N avant de prendre les gens en photo...
+Dialogue: 0,0:11:51.37,0:11:53.06,Default,,0,0,0,,On m'aurait menti
+Dialogue: 0,0:11:53.19,0:11:59.00,Default,,0,0,0,,Ah, désolé! J'ai plutôt l'habitude de photographier des oiseaux. Personne ne sais jamais plaint!
+Dialogue: 0,0:12:02.11,0:12:03.86,Default,,0,0,0,,Keiichi!
+Dialogue: 0,0:12:05.12,0:12:08.95,Default,,0,0,0,,Désolée de te faire attendre!\N J'ai presque fini!
+Dialogue: 0,0:12:09.20,0:12:11.96,Default,,0,0,0,,Tiens, tu n'étais donc pas seul?
+Dialogue: 0,0:12:13.37,0:12:15.96,Default,,0,0,0,,Qu'est-ce que cette fille peut-elle bien faire ici?
+Dialogue: 0,0:12:16.29,0:12:17.67,Default,,0,0,0,,Si je le savais...
+Dialogue: 0,0:12:17.75,0:12:21.94,Default,,0,0,0,,Elle a peut-être tué  un mec et vérifie\N que personne n'a découvert le cadavre?
+Dialogue: 0,0:12:23.84,0:12:26.60,Default,,0,0,0,,Ah, je disais ça pour rigoler...
+Dialogue: 0,0:12:27.81,0:12:29.64,Default,,0,0,0,,C'était vraiment une sale histoire...
+Dialogue: 0,0:12:29.97,0:12:33.48,Default,,0,0,0,,La police n'a jamais retrouvé le deuxième bras, c'est bien ça?
+Dialogue: 0,0:12:44.45,0:12:46.57,Default,,0,0,0,,Qu'est-ce que vous avez dit?
+Dialogue: 0,0:12:47.78,0:12:49.45,Default,,0,0,0,,Désolée d'être en retard, Keiichi!
+Dialogue: 0,0:12:50.41,0:12:52.41,Default,,0,0,0,,C'était pas trop long?
+Dialogue: 0,0:12:52.91,0:12:54.29,Default,,0,0,0,,Bonsoir.
+Dialogue: 0,0:12:54.42,0:12:55.58,Default,,0,0,0,,Bonsoir.
+Dialogue: 0,0:12:55.79,0:12:59.42,Default,,0,0,0,,Il vaut mieux que je disparaisse\N avant que ton amie ne me lynche.
+Dialogue: 0,0:12:59.50,0:13:02.42,Default,,0,0,0,,Excuse-moi encore de t'avoir fait peur tout à l'heure, Keiichi.
+Dialogue: 0,0:13:04.38,0:13:05.55,Default,,0,0,0,,Keiichi?
+Dialogue: 0,0:13:06.39,0:13:09.47,Default,,0,0,0,,Ah, euh...\NAlors, cette chasse au trésor? Fructueuse?
+Dialogue: 0,0:13:09.56,0:13:12.18,Default,,0,0,0,,Je l'ai trouvée! \NJ'ai trouvé un Kenta!
+Dialogue: 0,0:13:12.56,0:13:18.10,Default,,0,0,0,,Kenta? Tu veux parler du général\N des Kentucky Fried euh Trucmuche?
+Dialogue: 0,0:13:18.15,0:13:20.02,Default,,0,0,0,,Oui, exactement!
+Dialogue: 0,0:13:20.73,0:13:23.95,Default,,0,0,0,,Il est tellement mimi...\N Je veux le ramener chez moi...
+Dialogue: 0,0:13:24.57,0:13:28.36,Default,,0,0,0,,Ben, si elle a été jetée aux ordures, pourquoi pas?
+Dialogue: 0,0:13:28.37,0:13:31.83,Default,,0,0,0,,Je voudrais bien, mais en fait\N elle est coincée sous une tonne de choses...
+Dialogue: 0,0:13:31.95,0:13:34.33,Default,,0,0,0,,Et puis, il va bientôt faire nuit.
+Dialogue: 0,0:13:34.50,0:13:37.21,Default,,0,0,0,,Je te filerai un coup de main, va.
+Dialogue: 0,0:13:37.33,0:13:40.71,Default,,0,0,0,,Ce sera pour te remercier de ce que tu as cuisiné aujourd'hui.
+Dialogue: 0,0:13:41.00,0:13:44.72,Default,,0,0,0,,Merci!\N Keiichiiii va m'aider!
+Dialogue: 0,0:13:44.84,0:13:47.89,Default,,0,0,0,,J'vais ramener Kenta chez moi.
+Dialogue: 0,0:13:50.30,0:13:52.10,Default,,0,0,0,,{\i1}C'était vraiment une sale histoire...{\i0}
+Dialogue: 0,0:13:52.47,0:13:56.10,Default,,0,0,0,,Rena…\NIl s'est passé quelque chose, ici?
+Dialogue: 0,0:13:56.56,0:13:59.15,Default,,0,0,0,,Il paraît qu'ils construisaient un barrage.
+Dialogue: 0,0:14:00.31,0:14:04.23,Default,,0,0,0,,Mais alors, pourquoi ont-ils arrêté? \NIl s'est passé quelque chose?
+Dialogue: 0,0:14:04.40,0:14:06.49,Default,,0,0,0,,Un accident, ou bien, euh...
+Dialogue: 0,0:14:06.61,0:14:07.32,Default,,0,0,0,,Je sais pas, OK?
+Dialogue: 0,0:14:09.32,0:14:12.83,Default,,0,0,0,, À dire vrai,\N je n'ai emménagé ici que l'année dernière.
+Dialogue: 0,0:14:12.95,0:14:15.91,Default,,0,0,0,,Ah bon?\N Toi aussi tu es une nouvelle élève?
+Dialogue: 0,0:14:16.00,0:14:17.25,Default,,0,0,0,,Je croyais que...
+Dialogue: 0,0:14:17.50,0:14:21.09,Default,,0,0,0,,Je ne suis pas vraiment au courant\N  de ce qu'il s'est passé avant l'année dernière.
+Dialogue: 0,0:14:21.29,0:14:22.25,Default,,0,0,0,,Désolée.
+Dialogue: 0,0:14:35.93,0:14:38.56,Default,,0,0,0,,Bien! Même si Keiichi a fini dernier,
+Dialogue: 0,0:14:38.60,0:14:41.56,Default,,0,0,0,,il a brillé lors du test d'entrée au club.
+Dialogue: 0,0:14:41.65,0:14:44.02,Default,,0,0,0,,En tant que présidente du club,
+Dialogue: 0,0:14:44.11,0:14:46.58,Default,,0,0,0,,j'accepte parmi nous un nouveau membre...
+Dialogue: 0,0:14:46.78,0:14:48.03,Default,,0,0,0,,Keiichi Maebara!
+Dialogue: 0,0:14:49.66,0:14:52.16,Default,,0,0,0,,– Prêt à souffrir une fois de plus?\N– Hé!
+Dialogue: 0,0:14:52.32,0:14:55.24,Default,,0,0,0,,C'est à cause\Nde votre jeu de cartes truqué
+Dialogue: 0,0:14:55.29,0:14:57.50,Default,,0,0,0,,que je me suis tapé la honte!
+Dialogue: 0,0:14:57.66,0:14:59.62,Default,,0,0,0,,C'était un gage, donc bon...
+Dialogue: 0,0:14:59.67,0:15:03.25,Default,,0,0,0,,Un gage?\NC'était bien plus horrible que ça!
+Dialogue: 0,0:15:03.34,0:15:08.01,Default,,0,0,0,,Mion! L'arme redoutable\Ndans ta poche a ruiné mon visage...
+Dialogue: 0,0:15:08.42,0:15:10.22,Default,,0,0,0,,Tu veux parler de ça?
+Dialogue: 0,0:15:10.43,0:15:13.55,Default,,0,0,0,,Évidemment!\NEt en plus, c'est indélébile!
+Dialogue: 0,0:15:13.64,0:15:18.36,Default,,0,0,0,,Pense à ce que j'ai pu ressentir\Nquand ma mère m'a vu nettoyer ça...
+Dialogue: 0,0:15:18.60,0:15:21.40,Default,,0,0,0,,Inutile de vous fourvoyer.
+Dialogue: 0,0:15:22.60,0:15:25.27,Default,,0,0,0,,Mon pauvre petit Keiichi.
+Dialogue: 0,0:15:25.61,0:15:28.19,Default,,0,0,0,,Bref, on joue à quoi, aujourd'hui?
+Dialogue: 0,0:15:28.36,0:15:30.86,Default,,0,0,0,,Encore au pouilleux?\NAu président?
+Dialogue: 0,0:15:31.11,0:15:34.03,Default,,0,0,0,,Ce serait pas drôle\Nde rejouer aux cartes.
+Dialogue: 0,0:15:34.24,0:15:36.89,Default,,0,0,0,,Et si on faisait une chasse au trésor?
+Dialogue: 0,0:15:43.04,0:15:44.08,Default,,0,0,0,,Ici?
+Dialogue: 0,0:15:45.63,0:15:48.59,Default,,0,0,0,,Bordel...\NOù est-ce que Mion a pu le cacher?
+Dialogue: 0,0:15:51.18,0:15:54.05,Default,,0,0,0,,Je vais cacher ce feutre dans l'école.
+Dialogue: 0,0:15:54.09,0:15:57.18,Default,,0,0,0,,Le premier à le retrouver l'emportera.
+Dialogue: 0,0:15:57.22,0:15:58.59,Default,,0,0,0,,C'est réglo, non?
+Dialogue: 0,0:15:58.89,0:16:02.48,Default,,0,0,0,,Tu participes pas, non?\NOn fait comment pour le gage?
+Dialogue: 0,0:16:02.81,0:16:06.77,Default,,0,0,0,,Je ferai une exception.\NSi tu es le premier à le trouver...
+Dialogue: 0,0:16:07.02,0:16:10.03,Default,,0,0,0,,je te laisserai gribouiller mon visage.
+Dialogue: 0,0:16:16.78,0:16:19.49,Default,,0,0,0,,Garde ton calme, Maebara Keiichi.
+Dialogue: 0,0:16:19.75,0:16:23.37,Default,,0,0,0,,Mion a dû faire en sorte\Nque toi seul le trouves pas.
+Dialogue: 0,0:16:23.67,0:16:28.05,Default,,0,0,0,,Elle a dû le cacher dans un lieu\Nqu'un nouvel élève ne connaît pas.
+Dialogue: 0,0:16:35.59,0:16:37.44,Default,,0,0,0,,– Rena!\N– Keiichi!
+Dialogue: 0,0:16:38.10,0:16:40.57,Default,,0,0,0,,Tu vas pas me laisser gagner, hein?
+Dialogue: 0,0:16:40.93,0:16:42.77,Default,,0,0,0,,Pardon, Keiichi.
+Dialogue: 0,0:16:43.10,0:16:47.70,Default,,0,0,0,,Règle n° 2 : tous les efforts jugés nécessaires\Ndoivent obligatoirement être fournis.
+Dialogue: 0,0:16:48.61,0:16:50.73,Default,,0,0,0,,– Excusez-moi!\N– Attention devant!
+Dialogue: 0,0:16:55.57,0:16:57.78,Default,,0,0,0,,Pas même en songe!
+Dialogue: 0,0:17:04.08,0:17:07.36,Default,,0,0,0,,C'est à moi de l'emporter,\Naujourd'hui.
+Dialogue: 0,0:17:07.63,0:17:09.74,Default,,0,0,0,,Face à mes pièges,
+Dialogue: 0,0:17:09.84,0:17:12.42,Default,,0,0,0,, vous avez encore du chemin à faire, cher Rika.
+Dialogue: 0,0:17:13.92,0:17:16.25,Default,,0,0,0,,Laisse-la tranquille, Satoko.
+Dialogue: 0,0:17:17.43,0:17:19.30,Default,,0,0,0,,C'était une défaite écrasante,
+Dialogue: 0,0:17:19.39,0:17:21.97,Default,,0,0,0,,mais je ne suis pas du tout dégoûtée.
+Dialogue: 0,0:17:24.73,0:17:27.81,Default,,0,0,0,,Je t'offre ce cadeau pour ta victoire.
+Dialogue: 0,0:17:27.85,0:17:29.78,Default,,0,0,0,,Oh, vous savez vraiment y faire, Rika.
+Dialogue: 0,0:17:30.02,0:17:32.78,Default,,0,0,0,,Félicitations. Éhhéééé!
+Dialogue: 0,0:17:42.20,0:17:43.75,Default,,0,0,0,,Mais que diable est-il arrivé?
+Dialogue: 0,0:17:43.87,0:17:45.50,Default,,0,0,0,,Regarde-toi dans une glace.
+Dialogue: 0,0:17:50.04,0:17:51.55,Default,,0,0,0,,Qu'est-ce donc?
+Dialogue: 0,0:17:51.84,0:17:56.09,Default,,0,0,0,,J'ai préparé ce piège\Npour contrer le tien.
+Dialogue: 0,0:17:56.13,0:17:57.22,Default,,0,0,0,,Éhhéééé!
+Dialogue: 0,0:17:57.34,0:18:00.67,Default,,0,0,0,,Personne ne peut vaincre Rika,\Ndécidément...
+Dialogue: 0,0:18:04.18,0:18:04.93,Default,,0,0,0,,Rena!
+Dialogue: 0,0:18:06.14,0:18:10.56,Default,,0,0,0,,Pardon, le club a dû m'épuiser.\NJe me sens pas très bien...
+Dialogue: 0,0:18:11.27,0:18:12.06,Default,,0,0,0,,Ça va aller?
+Dialogue: 0,0:18:12.44,0:18:16.06,Default,,0,0,0,,Oui, je partirai\Naprès m'être reposée à l'infirmerie.
+Dialogue: 0,0:18:16.15,0:18:17.08,Default,,0,0,0,,Pour Kenta...
+Dialogue: 0,0:18:17.24,0:18:20.94,Default,,0,0,0,,T'en fais pas!\NJe t'aiderai quand tu iras mieux.
+Dialogue: 0,0:18:30.00,0:18:32.50,Default,,0,0,0,,J'en profite pour me débarbouiller.
+Dialogue: 0,0:18:32.59,0:18:36.45,Default,,0,0,0,,Ce serait mal venue\N de vaquer ainsi dehors.
+Dialogue: 0,0:18:40.05,0:18:42.59,Default,,0,0,0,,On dirait que c'est fini pour aujourd'hui.
+Dialogue: 0,0:18:43.43,0:18:44.72,Default,,0,0,0,,Une statue de Kenta?
+Dialogue: 0,0:18:45.18,0:18:47.95,Default,,0,0,0,,Elle est donc partie voir sa montagne de trésors.
+Dialogue: 0,0:18:47.96,0:18:53.02,Default,,0,0,0,,Mion, il s'est passé quelque chose là-bas\Nsur le site de construction du barrage?
+Dialogue: 0,0:18:53.11,0:18:55.00,Default,,0,0,0,,Un peu, mon neveu. C'était la guerre!
+Dialogue: 0,0:18:55.48,0:18:59.98,Default,,0,0,0,,On bloquait les machines pour arrêter le chantier,\N on faisait des manifestations, aussi!
+Dialogue: 0,0:19:00.41,0:19:04.62,Default,,0,0,0,,Ils ont voulu noyer tout ce que vous aviez...\N Moi non plus, je ne me serais pas laissé faire.
+Dialogue: 0,0:19:05.08,0:19:07.90,Default,,0,0,0,,Les fonctionnaires avaient tout décidé sans rien nous demander.
+Dialogue: 0,0:19:08.00,0:19:10.12,Default,,0,0,0,,Quand ils ont compris qu'ils ne nous achèteraient pas,
+Dialogue: 0,0:19:10.17,0:19:12.21,Default,,0,0,0,, ils nous ont emmerdé comme tu n'imagines pas...
+Dialogue: 0,0:19:12.33,0:19:15.01,Default,,0,0,0,,Vous avez eu gain de cause contre l'État?
+Dialogue: 0,0:19:15.34,0:19:19.17,Default,,0,0,0,,Le maire et les autres élus du coin\N ont fait des réclamations.
+Dialogue: 0,0:19:19.30,0:19:21.34,Default,,0,0,0,,et ont sollicité les ministres à Tokyo.
+Dialogue: 0,0:19:21.47,0:19:23.96,Default,,0,0,0,,Et puis un jour, alors qu'on ne s'y attendait pas,
+Dialogue: 0,0:19:23.97,0:19:26.31,Default,,0,0,0,,le projet a été annulé.
+Dialogue: 0,0:19:29.10,0:19:32.10,Default,,0,0,0,,Mais... il n'y a jamais eu de problèmes plus graves?
+Dialogue: 0,0:19:32.23,0:19:35.80,Default,,0,0,0,,Personne de blessés pendant les manifs? Personne n'est mo-
+Dialogue: 0,0:19:35.82,0:19:36.41,Default,,0,0,0,,Y'a RIEN eu du tout.
+Dialogue: 0,0:19:37.98,0:19:39.74,Default,,0,0,0,,Bon, eh bien à demain!
+Dialogue: 0,0:19:49.91,0:19:53.92,Default,,0,0,0,,{\an8\i1}HINAMIZAWA{\i0\an}
+Dialogue: 0,0:20:04.09,0:20:05.18,Default,,0,0,0,,Elle est là.
+Dialogue: 0,0:20:06.51,0:20:09.18,Default,,0,0,0,,Rena! On bosse dur, à ce que je vois!
+Dialogue: 0,0:20:13.60,0:20:15.14,Default,,0,0,0,,Qu'est-ce tu fais dans un endroit pareil?
+Dialogue: 0,0:20:15.98,0:20:18.86,Default,,0,0,0,,Nous avons reçu un appel d'urgence à propos d'un accident!
+Dialogue: 0,0:20:18.94,0:20:20.53,Default,,0,0,0,,Où est le blessé?
+Dialogue: 0,0:20:22.11,0:20:23.58,Default,,0,0,0,,De quoi? Quel accident?
+Dialogue: 0,0:20:23.76,0:20:27.73,Default,,0,0,0,,Il paraît le général Kenta est retenu prisonnier,\N enseveli sous une tonne de gravas.
+Dialogue: 0,0:20:29.20,0:20:32.79,Default,,0,0,0,,OK, je comprends maintenant.\N J'ai eu peur sur le coup.
+Dialogue: 0,0:20:33.33,0:20:35.94,Default,,0,0,0,,Trève de plaisanteries, je me suis dit\N que t'aurais besoin d'un coup de main.
+Dialogue: 0,0:20:35.96,0:20:37.81,Default,,0,0,0,,Oh? Tu es venue pour moi?
+Dialogue: 0,0:20:43.28,0:20:45.48,Default,,0,0,0,,Elle est où, cette statue?
+Dialogue: 0,0:20:46.40,0:20:47.31,Default,,0,0,0,,Par ici.
+Dialogue: 0,0:20:48.01,0:20:50.40,Default,,0,0,0,,Regarde... Tu peux le voir, d'ici?
+Dialogue: 0,0:20:51.69,0:20:54.90,Default,,0,0,0,,Tu essayais\Nde le tirer de là toute seule?
+Dialogue: 0,0:20:55.60,0:20:56.89,Default,,0,0,0,,Écarte-toi un peu.
+Dialogue: 0,0:21:20.28,0:21:22.61,Default,,0,0,0,,Si seulement j'avais une scie ou hache...
+Dialogue: 0,0:21:23.09,0:21:25.01,Default,,0,0,0,,C'est bon, Keiichi, ça suffira comme ça.
+Dialogue: 0,0:21:25.13,0:21:28.98,Default,,0,0,0,,Mais, c'est bon, là.\N Je fais ça pour toi, hein.
+Dialogue: 0,0:21:33.04,0:21:35.74,Default,,0,0,0,,Bon! OK! Je veux bien faire une pause.
+Dialogue: 0,0:21:35.94,0:21:38.27,Default,,0,0,0,,Euh, si tu veux, j'habites pas loin,
+Dialogue: 0,0:21:38.31,0:21:40.22,Default,,0,0,0,,je pourrais ramener à boire.
+Dialogue: 0,0:21:40.73,0:21:42.78,Default,,0,0,0,,Bouge pas, je reviens tout de suite!
+Dialogue: 0,0:22:01.55,0:22:04.51,Default,,0,0,0,,{\i1}La police n'a jamais retrouvé le deuxième bras, c'est bien ça?{\i0}
+Dialogue: 0,0:22:22.61,0:22:25.49,Default,,0,0,0,,Site de construction\Ndu barrage de Hinamizawa...
+Dialogue: 0,0:22:25.74,0:22:29.86,Default,,0,0,0,,Un ouvrier mort lynché...\NIls l'ont découpé en morceaux!
+Dialogue: 0,0:22:29.87,0:22:32.87,Default,,0,0,0,,C'était donc ça!
+Comment: 0,0:00:00.39,0:00:00.39,Default,,0,0,0,,=================================================
+Dialogue: 0,0:00:44.02,0:00:49.02,Default,,0,0,680,,{\fnArchitects Daughter\bord6\blur7\b0\fs135\c&HF3EFFF&\3c&H0D0355&}Le {\c&H1900AC&}Sang{\c&HFFFFFF&}lot des Cigales
+Dialogue: 0,0:01:38.24,0:01:40.74,Default,,0,0,426,,{\c&H2B2B2B&\bord0\fnTragic Marker}VENDREDI 10 JUIN
+Dialogue: 0,0:06:17.60,0:06:20.10,Default,,0,0,426,,{\c&H120FC1&\bord0\fnTragic Marker}DIMANCHE
+Dialogue: 0,0:14:27.76,0:14:30.01,Default,,0,0,426,,{\c&H2B2B2B&\bord0\fnTragic Marker}LUNDI
+Dialogue: 0,0:16:21.75,0:16:23.37,Default,,0,0,0,,{\an8\i1\bord0\c&H2B312B&\frx354\fry348\frz22.07\fnpastel\pos(928,293.4)}RÉSERVÉ{\i1\an}
+Dialogue: 0,0:19:44.41,0:19:46.91,Default,,0,0,426,,{\c&H1D1A1C&\bord0\fnTragic Marker}MARDI
+Dialogue: 0,0:19:53.92,0:19:56.42,Default,,0,0,426,,{\c&H1F1F1F&\bord0\fnTragic Marker}MERCREDI
+Comment: 0,0:00:00.39,0:00:00.39,Default,,0,0,0,,=================================================
+Dialogue: 0,0:23:29.97,0:23:34.51,Default,,115,0,0,,{\an7\fscx86\fscy93\fade(450, 450)}Supervision : Justine Cocquyt\NRepérage : Elouan Tapounie\NPublication : Jelizaveta Stolarova
+Dialogue: 0,0:23:34.55,0:23:36.51,Default,,125,0,0,,{\an7\fscx86\fscy93\fade(450, 450)}Traduction : Benjamin Moro\NRelecture : Aurélie Brun\NWAKANIM & NanDesuKa?

@@ -4,7 +4,7 @@ Cette traduction est faites par et pour les fans de la traduction originale et n
 
 La version HardSub (sous-titres intégrés dans la vidéo), avec en prime la scène d'intro remontés, est en cours.
 
-Pour des raisons de légalité évidente, je ne donnerai le lien de la vidéo que par message privé, notamment sur mon twitter: https://twitter.com/DarcoldDestolle.
+Pour des raisons de légalité évidente, je ne donnerai le lien de cette vidéo que par message privé, notamment sur mon twitter: https://twitter.com/DarcoldDestolle.
 
 N'hésitez pas à me la demander!
 

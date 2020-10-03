@@ -2,7 +2,7 @@ Bonjour et bienvenue,
 
 Cette traduction est faites par et pour les fans de la traduction originale et ne vise en rien à discréditer celle de Wakanim (sur laquelle je me suis appuyé).
 
-La version HardSub (sous-titres intégrés dans la vidéo), avec en prime la scène d'intro remontés, est en cours.
+La version HardSub (sous-titres intégrés dans la vidéo), avec en prime la scène d'intro remonté, est en cours.
 
 Pour des raisons de légalité évidente, je ne donnerai le lien de cette vidéo que par message privé, notamment sur mon twitter: https://twitter.com/DarcoldDestolle.
 

@@ -6,6 +6,6 @@ Pour des raisons de légalité évidente, je ne donnerai le lien de version Hard
 
 N'hésitez pas à me la demander!
 
-Pour l'instant je géle le projet à l'épisode 1 pour savoir ce que cette "suite" vaut, mais si vous avez aimé et que vous vouler voir le projet continué n'hésiter pas à me le fare savoir!
+Pour l'instant je géle le projet à l'épisode 1 pour savoir ce que cette "suite" vaut, mais si vous avez aimé et que vous vouler voir le projet continué n'hésiter pas à me le faire savoir!
 
 A oui et le fichier n'est pas du tout définitif ou quoi, si vous rencontrez des problèmes ou autres, signaler-le moi.
